@@ -64,7 +64,7 @@
         <section id="pdf">
             <h2>Mon Projet en PDF</h2>
             <p>Consultez mon projet directement ci-dessous :</p>
-            <embed src="C:/Users/hnadenane/Desktop/dossier%20max/Compte-rendu-Projet-Personnel-itération-2.pdf" type="application/pdf" width="100%" height="600px">
+            <embed src="documentProjet.pdf" type="application/pdf" width="100%" height="600px">
         </section>
         
     </main>
